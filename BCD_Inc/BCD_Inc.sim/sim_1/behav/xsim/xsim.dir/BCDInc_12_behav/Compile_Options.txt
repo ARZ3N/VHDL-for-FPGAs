@@ -1,0 +1,1 @@
+-wto "17c5ee96bcea49848e4a05804d2f254b" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "BCDInc_12_behav" "xil_defaultlib.BCDInc_12" -log "elaborate.log" 
