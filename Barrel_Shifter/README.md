@@ -1,9 +1,9 @@
 ## VHDL Design for a Barrel Shifter
 ### Behavioral Simulation Results
-![Input_Signal](/Sim_SS/input.PNG)
+![Input_Signal](./Sim_SS/input.PNG)
 
-![Left_Shift](/Sim_SS/yL.PNG)
+![Left_Shift](./Sim_SS/yL.PNG)
 
-![right_shift](/Sim_SS/yR.PNG)
+![right_shift](./Sim_SS/yR.PNG)
 
-![Output_signal](/Sim_SS/output.PNG)
+![Output_signal](./Sim_SS/output.PNG)
