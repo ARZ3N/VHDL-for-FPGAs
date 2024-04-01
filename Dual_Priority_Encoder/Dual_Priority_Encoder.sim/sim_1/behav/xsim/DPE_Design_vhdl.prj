@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Dual_Priority_Encoder.srcs/sources_1/new/PR_ENCDR_12_4.vhd" \
+"../../../../Dual_Priority_Encoder.srcs/sources_1/new/DPE_Design.vhd" \
+
+# Do not sort compile order
+nosort
