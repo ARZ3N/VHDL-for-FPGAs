@@ -3,7 +3,7 @@ Introductory VHDL Designs for learning to prototype with Field Programmable Gate
 Software: Xilinx Vivado ISE & SDK<br>
 Hardware: Xilinx Zynq-7000 SoC (Digilent Arty Z7-20 FPGA Dev Board)<br>
 ### List of Designs:
-- [8-bit Barrel Shifter](https://github/com/ARZ3N/VHDL-for-FPGAs/Barrel_Shifter)
-- [Dual Priority Encoder](https://github/com/ARZ3N/VHDL-for-FPGAs/Dual_Priority_Encoder)
-- [12-bit BCD Incrementor](https://github/com/ARZ3N/VHDL-for-FPGAs/BCD_Inc)
+- [8-bit Barrel Shifter](https://github.com/ARZ3N/VHDL-for-FPGAs/Barrel_Shifter)
+- [Dual Priority Encoder](https://github.com/ARZ3N/VHDL-for-FPGAs/Dual_Priority_Encoder)
+- [12-bit BCD Incrementor](https://github.com/ARZ3N/VHDL-for-FPGAs/BCD_Inc)
   
